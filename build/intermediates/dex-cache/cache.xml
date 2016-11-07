@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0464197d6b4786c84976118b655a59b3ee4bea3f">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b1857d746bd74da8678014aae3f98384c6596a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_16e8e2032d4552210578c3660743ff47b8d35238\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_511b02f9164ccaeac8b980fece47d3f888af761f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cd6749bc710cbdc54b8ae966a0049f10eba395e">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae4913dfcbd13f149e7496c8072fbae18bef99e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_24be792b43daeb46f9f43e4f44b8f75b45a226b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_7c3d3f95d8ab53d18f101dcf68ec97190430e6fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_815b825f85d6b261aeb6ce269bc8c317be9753ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_0cf4f249cd474b2e1fc06b08caefa4fb066254ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_928b026d714e323468414c2c4156dbbc1227a0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_55bb60d9a66a147145042375989b3d5d107b4eeb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\github\FitnessMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_3b89634d76306458a788bc8af99b0b9d8226ca31\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_ec3718bae1f978dd6cb1ad3f857981116d5b31f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\github\FitnessMobileApp\FitnessMobileApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_47bd6ba6baa454547ee97a09b37bf96357faef72.jar" />
+    </item>
+
+</items>

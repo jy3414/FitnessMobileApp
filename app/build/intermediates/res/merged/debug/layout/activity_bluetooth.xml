@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_bluetooth"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="group04.fitnessmobileapp.BluetoothActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "Please enable your bluetooth device!"
+        android:id="@+id/warning_messgae"
+        android:visibility="gone"/>
+
+    <Button
+        android:text="SELECT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="55dp"
+        android:layout_marginStart="55dp"
+        android:id="@+id/select_bluetooth_device" />
+
+    <Button
+        android:text="SCAN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/select_bluetooth_device"
+        android:layout_toRightOf="@+id/select_bluetooth_device"
+        android:layout_toEndOf="@+id/select_bluetooth_device"
+        android:layout_marginLeft="52dp"
+        android:layout_marginStart="52dp"
+        android:id="@+id/scan_bluetooth_device"
+        android:onClick="scanLeDevice"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:id="@+id/bluetooth_device_list_view"
+        android:layout_above="@+id/select_bluetooth_device"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="13dp" />
+
+    <TextView
+        android:text="Please select chest sensor."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:id="@+id/notification_bluetooth_chest_text" />
+
+    <TextView
+        android:text="sensor name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/bluetooth_chest_text" />
+
+
+</RelativeLayout>

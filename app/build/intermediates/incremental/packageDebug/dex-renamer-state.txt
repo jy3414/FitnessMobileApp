@@ -1,0 +1,7 @@
+#Mon Nov 07 15:51:49 GMT 2016
+base.0=D\:\\github\\FitnessMobileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ae4913dfcbd13f149e7496c8072fbae18bef99e5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\github\\FitnessMobileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5b1857d746bd74da8678014aae3f98384c6596a2\\classes.dex
+base.1=D\:\\github\\FitnessMobileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5b1857d746bd74da8678014aae3f98384c6596a2
+file.0=D\:\\github\\FitnessMobileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ae4913dfcbd13f149e7496c8072fbae18bef99e5\\classes.dex
