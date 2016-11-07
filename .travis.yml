@@ -17,9 +17,3 @@ android:
 
   before_install:
     - chmod +x gradlew
-
-  before_script: 
-    - cd FitnessMobileApp
-
-  script: 
-    - ./gradlew build connectedCheck
