@@ -14,7 +14,7 @@
         android:layout_width="1000dp"
         android:layout_height="20dp"
         android:text="Please wear sensors"
-        android:layout_marginLeft="100dp" />
+        android:layout_marginLeft="100dp"/>
 
     <ImageView
         android:id="@+id/body"
@@ -42,7 +42,7 @@
         android:layout_marginTop="350dp"
         android:background="@drawable/round_button"
         android:onClick="showTrainingProgram"
-        android:visibility="gone" />
+        android:visibility="gone"/>
 
     <Button
         android:id="@+id/popupButton"
@@ -94,7 +94,7 @@
         android:layout_marginLeft="122dp"
         android:layout_marginTop="75dp"
         android:layout_gravity="center"
-        android:visibility="gone" />
+        android:visibility="gone"/>
 
     <ProgressBar
         android:id="@+id/progress_bar_2"
@@ -103,7 +103,7 @@
         android:layout_marginLeft="108dp"
         android:layout_marginTop="145dp"
         android:layout_gravity="center"
-        android:visibility="gone" />
+        android:visibility="gone"/>
 
     <ProgressBar
         android:id="@+id/progress_bar_3"
@@ -112,7 +112,7 @@
         android:layout_marginLeft="166dp"
         android:layout_marginTop="228dp"
         android:layout_gravity="center"
-        android:visibility="gone" />
+        android:visibility="gone"/>
 
     <ListView
         android:layout_width="wrap_content"
@@ -130,5 +130,6 @@
         android:layout_marginLeft="20dp"
         android:background="@drawable/round_button"
         android:onClick="readData"
-        android:layout_marginTop="350dp" />
+        android:layout_marginTop="350dp"/>
+
 </RelativeLayout>

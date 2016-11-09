@@ -13,9 +13,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Please enable your bluetooth device!"
+        android:text = "Please enable your bluetooth device!"
         android:id="@+id/warning_messgae"
-        android:visibility="gone" />
+        android:visibility="gone"/>
 
     <Button
         android:text="SELECT"
@@ -38,7 +38,7 @@
         android:layout_marginLeft="52dp"
         android:layout_marginStart="52dp"
         android:id="@+id/scan_bluetooth_device"
-        android:onClick="scanLeDevice" />
+        android:onClick="scanLeDevice"/>
 
     <ListView
         android:layout_width="wrap_content"
