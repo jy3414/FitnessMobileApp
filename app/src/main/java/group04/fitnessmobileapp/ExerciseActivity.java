@@ -33,16 +33,17 @@ public class ExerciseActivity extends FragmentActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercise);
 
-        exercise_button = (Button) findViewById(R.id.count_exercise);
-
-        startTimer();
-
+//        exercise_button = (Button) findViewById(R.id.count_exercise);
+//
+//        startTimer();
+//
         Intent intent = getIntent();
-        ArrayList<CharSequence> exerciseList = intent.getCharSequenceArrayListExtra("exerciseList");
+//        ArrayList<CharSequence> exerciseList = intent.getCharSequenceArrayListExtra("exerciseList");
 
         exercisePagerAdapter = new ExercisePagerAdapter(getSupportFragmentManager());
 
-        exercisePagerAdapter.setCount(exerciseList.size());
+//        exercisePagerAdapter.setCount(exerciseList.size());
+        exercisePagerAdapter.setCount(5);
 
         viewPager = (ViewPager) findViewById(R.id.pager);
 

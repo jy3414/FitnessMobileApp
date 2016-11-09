@@ -200,12 +200,12 @@
         "source": "D:\\github\\FitnessMobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\github\\FitnessMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_exercise.xml",
-        "source": "D:\\github\\FitnessMobileApp\\app\\src\\main\\res\\layout\\fragment_exercise.xml"
-    },
-    {
         "merged": "D:\\github\\FitnessMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "D:\\github\\FitnessMobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\github\\FitnessMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_exercise.xml",
+        "source": "D:\\github\\FitnessMobileApp\\app\\src\\main\\res\\layout\\fragment_exercise.xml"
     },
     {
         "merged": "D:\\github\\FitnessMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
